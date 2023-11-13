@@ -1,0 +1,16 @@
+p {
+  background: url("./screenshot.png");
+  -webkit-background-clip: text;
+  background-repeat: no-repeat;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+  font: 0.6rem "Helvetica", sans-serif;
+}
+
+.bg {
+  background: rgb(37, 37, 37);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
